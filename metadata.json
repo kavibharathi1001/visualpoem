@@ -1,0 +1,7 @@
+{
+  "name": "Visual Muse",
+  "description": "Transform your images into evocative poetry using advanced AI. Upload a photo and choose from various poetic styles to generate a unique masterpiece.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
